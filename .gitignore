@@ -1,0 +1,13 @@
+# Genome files
+*.fna
+*.fna.gz
+*.faa
+*.gff
+*.gbff
+*.zip
+*.tar.gz
+
+# Temporary files
+*.log
+*.tmp
+
